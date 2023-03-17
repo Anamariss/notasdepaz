@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(237, 230, 230);
+    text-decoration-color: aliceblue;
+}
+
+body{
+    width: 99%;
+    display: flex;
+    background-color: white;
+    text-align:center
+}
+caption{ 
+    text-align: center;
+    position:top;
+}
+.table-responsive{
+    padding-left: 20px;
+}
+table{ 
+    margin:0 auto;
+    border:1;
+}
